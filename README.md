@@ -1,3 +1,3 @@
 
- :wave: Hi, I'm @DhruvBansal
+ * :wave: Hi, I'm @DhruvBansal
  
